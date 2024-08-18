@@ -1,0 +1,19 @@
+version: '3'
+
+services:
+
+  am30-airflow:
+
+    image: am30-airflow:latest
+
+    volumes:
+      - ./airflow:/opt/airflow
+
+    ports:
+      - "8081:8080"
+
+    command: airflow standalone
+
+  am30-smtp:
+    image: bytemark/smtp
+    restart: always

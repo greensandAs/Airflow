@@ -1,0 +1,172 @@
+[2024-08-18T08:01:52.856+0000] {processor.py:186} INFO - Started process (PID=955) to work on /opt/airflow/dags/traditionalflow.py
+[2024-08-18T08:01:52.858+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/traditionalflow.py for tasks to queue
+[2024-08-18T08:01:52.860+0000] {logging_mixin.py:190} INFO - [2024-08-18T08:01:52.859+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/traditionalflow.py
+[2024-08-18T08:01:52.930+0000] {processor.py:925} INFO - DAG(s) 'traditional_dag' retrieved from /opt/airflow/dags/traditionalflow.py
+[2024-08-18T08:01:53.209+0000] {logging_mixin.py:190} INFO - [2024-08-18T08:01:53.204+0000] {override.py:1858} INFO - Created Permission View: can read on DAG:traditional_dag
+[2024-08-18T08:01:53.508+0000] {logging_mixin.py:190} INFO - [2024-08-18T08:01:53.507+0000] {override.py:1858} INFO - Created Permission View: can edit on DAG:traditional_dag
+[2024-08-18T08:01:53.598+0000] {logging_mixin.py:190} INFO - [2024-08-18T08:01:53.597+0000] {override.py:1858} INFO - Created Permission View: can delete on DAG:traditional_dag
+[2024-08-18T08:01:53.600+0000] {logging_mixin.py:190} INFO - [2024-08-18T08:01:53.599+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-18T08:01:53.641+0000] {logging_mixin.py:190} INFO - [2024-08-18T08:01:53.641+0000] {dag.py:3234} INFO - Creating ORM DAG for traditional_dag
+[2024-08-18T08:01:53.667+0000] {logging_mixin.py:190} INFO - [2024-08-18T08:01:53.666+0000] {dag.py:4138} INFO - Setting next_dagrun for traditional_dag to 2024-08-17 21:00:00+00:00, run_after=2024-08-18 21:00:00+00:00
+[2024-08-18T08:01:53.833+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/traditionalflow.py took 0.982 seconds
+[2024-08-18T08:02:24.120+0000] {processor.py:186} INFO - Started process (PID=973) to work on /opt/airflow/dags/traditionalflow.py
+[2024-08-18T08:02:24.122+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/traditionalflow.py for tasks to queue
+[2024-08-18T08:02:24.125+0000] {logging_mixin.py:190} INFO - [2024-08-18T08:02:24.124+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/traditionalflow.py
+[2024-08-18T08:02:24.191+0000] {processor.py:925} INFO - DAG(s) 'traditional_dag' retrieved from /opt/airflow/dags/traditionalflow.py
+[2024-08-18T08:02:24.246+0000] {logging_mixin.py:190} INFO - [2024-08-18T08:02:24.245+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-18T08:02:24.290+0000] {logging_mixin.py:190} INFO - [2024-08-18T08:02:24.289+0000] {dag.py:4138} INFO - Setting next_dagrun for traditional_dag to 2024-08-17 21:00:00+00:00, run_after=2024-08-18 21:00:00+00:00
+[2024-08-18T08:02:24.438+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/traditionalflow.py took 0.327 seconds
+[2024-08-18T08:02:55.545+0000] {processor.py:186} INFO - Started process (PID=991) to work on /opt/airflow/dags/traditionalflow.py
+[2024-08-18T08:02:55.547+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/traditionalflow.py for tasks to queue
+[2024-08-18T08:02:55.549+0000] {logging_mixin.py:190} INFO - [2024-08-18T08:02:55.549+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/traditionalflow.py
+[2024-08-18T08:02:55.602+0000] {processor.py:925} INFO - DAG(s) 'traditional_dag' retrieved from /opt/airflow/dags/traditionalflow.py
+[2024-08-18T08:02:55.639+0000] {logging_mixin.py:190} INFO - [2024-08-18T08:02:55.639+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-18T08:02:55.702+0000] {logging_mixin.py:190} INFO - [2024-08-18T08:02:55.701+0000] {dag.py:4138} INFO - Setting next_dagrun for traditional_dag to 2024-08-17 21:00:00+00:00, run_after=2024-08-18 21:00:00+00:00
+[2024-08-18T08:02:55.826+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/traditionalflow.py took 0.286 seconds
+[2024-08-18T08:03:26.849+0000] {processor.py:186} INFO - Started process (PID=1009) to work on /opt/airflow/dags/traditionalflow.py
+[2024-08-18T08:03:26.851+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/traditionalflow.py for tasks to queue
+[2024-08-18T08:03:26.853+0000] {logging_mixin.py:190} INFO - [2024-08-18T08:03:26.852+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/traditionalflow.py
+[2024-08-18T08:03:26.911+0000] {processor.py:925} INFO - DAG(s) 'traditional_dag' retrieved from /opt/airflow/dags/traditionalflow.py
+[2024-08-18T08:03:26.966+0000] {logging_mixin.py:190} INFO - [2024-08-18T08:03:26.965+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-18T08:03:27.009+0000] {logging_mixin.py:190} INFO - [2024-08-18T08:03:27.009+0000] {dag.py:4138} INFO - Setting next_dagrun for traditional_dag to 2024-08-17 21:00:00+00:00, run_after=2024-08-18 21:00:00+00:00
+[2024-08-18T08:03:27.140+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/traditionalflow.py took 0.296 seconds
+[2024-08-18T08:03:58.101+0000] {processor.py:186} INFO - Started process (PID=1027) to work on /opt/airflow/dags/traditionalflow.py
+[2024-08-18T08:03:58.103+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/traditionalflow.py for tasks to queue
+[2024-08-18T08:03:58.105+0000] {logging_mixin.py:190} INFO - [2024-08-18T08:03:58.105+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/traditionalflow.py
+[2024-08-18T08:03:58.157+0000] {processor.py:925} INFO - DAG(s) 'traditional_dag' retrieved from /opt/airflow/dags/traditionalflow.py
+[2024-08-18T08:03:58.205+0000] {logging_mixin.py:190} INFO - [2024-08-18T08:03:58.205+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-18T08:03:58.246+0000] {logging_mixin.py:190} INFO - [2024-08-18T08:03:58.246+0000] {dag.py:4138} INFO - Setting next_dagrun for traditional_dag to 2024-08-17 21:00:00+00:00, run_after=2024-08-18 21:00:00+00:00
+[2024-08-18T08:03:58.363+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/traditionalflow.py took 0.268 seconds
+[2024-08-18T08:04:28.851+0000] {processor.py:186} INFO - Started process (PID=1045) to work on /opt/airflow/dags/traditionalflow.py
+[2024-08-18T08:04:28.853+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/traditionalflow.py for tasks to queue
+[2024-08-18T08:04:28.856+0000] {logging_mixin.py:190} INFO - [2024-08-18T08:04:28.855+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/traditionalflow.py
+[2024-08-18T08:04:28.918+0000] {processor.py:925} INFO - DAG(s) 'traditional_dag' retrieved from /opt/airflow/dags/traditionalflow.py
+[2024-08-18T08:04:28.983+0000] {logging_mixin.py:190} INFO - [2024-08-18T08:04:28.982+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-18T08:04:29.033+0000] {logging_mixin.py:190} INFO - [2024-08-18T08:04:29.032+0000] {dag.py:4138} INFO - Setting next_dagrun for traditional_dag to 2024-08-17 21:00:00+00:00, run_after=2024-08-18 21:00:00+00:00
+[2024-08-18T08:04:29.125+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/traditionalflow.py took 0.281 seconds
+[2024-08-18T08:05:00.252+0000] {processor.py:186} INFO - Started process (PID=1063) to work on /opt/airflow/dags/traditionalflow.py
+[2024-08-18T08:05:00.255+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/traditionalflow.py for tasks to queue
+[2024-08-18T08:05:00.259+0000] {logging_mixin.py:190} INFO - [2024-08-18T08:05:00.258+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/traditionalflow.py
+[2024-08-18T08:05:00.326+0000] {processor.py:925} INFO - DAG(s) 'traditional_dag' retrieved from /opt/airflow/dags/traditionalflow.py
+[2024-08-18T08:05:00.433+0000] {logging_mixin.py:190} INFO - [2024-08-18T08:05:00.432+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-18T08:05:00.521+0000] {logging_mixin.py:190} INFO - [2024-08-18T08:05:00.520+0000] {dag.py:4138} INFO - Setting next_dagrun for traditional_dag to 2024-08-17 21:00:00+00:00, run_after=2024-08-18 21:00:00+00:00
+[2024-08-18T08:05:00.679+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/traditionalflow.py took 0.441 seconds
+[2024-08-18T08:05:31.724+0000] {processor.py:186} INFO - Started process (PID=1081) to work on /opt/airflow/dags/traditionalflow.py
+[2024-08-18T08:05:31.725+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/traditionalflow.py for tasks to queue
+[2024-08-18T08:05:31.727+0000] {logging_mixin.py:190} INFO - [2024-08-18T08:05:31.726+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/traditionalflow.py
+[2024-08-18T08:05:31.772+0000] {processor.py:925} INFO - DAG(s) 'traditional_dag' retrieved from /opt/airflow/dags/traditionalflow.py
+[2024-08-18T08:05:31.823+0000] {logging_mixin.py:190} INFO - [2024-08-18T08:05:31.822+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-18T08:05:31.866+0000] {logging_mixin.py:190} INFO - [2024-08-18T08:05:31.866+0000] {dag.py:4138} INFO - Setting next_dagrun for traditional_dag to 2024-08-17 21:00:00+00:00, run_after=2024-08-18 21:00:00+00:00
+[2024-08-18T08:05:32.183+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/traditionalflow.py took 0.467 seconds
+[2024-08-18T08:06:04.818+0000] {processor.py:186} INFO - Started process (PID=1099) to work on /opt/airflow/dags/traditionalflow.py
+[2024-08-18T08:06:04.820+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/traditionalflow.py for tasks to queue
+[2024-08-18T08:06:04.823+0000] {logging_mixin.py:190} INFO - [2024-08-18T08:06:04.822+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/traditionalflow.py
+[2024-08-18T08:06:04.883+0000] {processor.py:925} INFO - DAG(s) 'traditional_dag' retrieved from /opt/airflow/dags/traditionalflow.py
+[2024-08-18T08:06:04.934+0000] {logging_mixin.py:190} INFO - [2024-08-18T08:06:04.933+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-18T08:06:04.978+0000] {logging_mixin.py:190} INFO - [2024-08-18T08:06:04.978+0000] {dag.py:4138} INFO - Setting next_dagrun for traditional_dag to 2024-08-17 21:00:00+00:00, run_after=2024-08-18 21:00:00+00:00
+[2024-08-18T08:06:05.258+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/traditionalflow.py took 0.445 seconds
+[2024-08-18T08:06:37.104+0000] {processor.py:186} INFO - Started process (PID=1117) to work on /opt/airflow/dags/traditionalflow.py
+[2024-08-18T08:06:37.105+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/traditionalflow.py for tasks to queue
+[2024-08-18T08:06:37.108+0000] {logging_mixin.py:190} INFO - [2024-08-18T08:06:37.108+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/traditionalflow.py
+[2024-08-18T08:06:37.170+0000] {processor.py:925} INFO - DAG(s) 'traditional_dag' retrieved from /opt/airflow/dags/traditionalflow.py
+[2024-08-18T08:06:37.236+0000] {logging_mixin.py:190} INFO - [2024-08-18T08:06:37.234+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-18T08:06:37.522+0000] {logging_mixin.py:190} INFO - [2024-08-18T08:06:37.522+0000] {dag.py:4138} INFO - Setting next_dagrun for traditional_dag to 2024-08-17 21:00:00+00:00, run_after=2024-08-18 21:00:00+00:00
+[2024-08-18T08:06:37.663+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/traditionalflow.py took 0.570 seconds
+[2024-08-18T08:07:08.365+0000] {processor.py:186} INFO - Started process (PID=1135) to work on /opt/airflow/dags/traditionalflow.py
+[2024-08-18T08:07:08.366+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/traditionalflow.py for tasks to queue
+[2024-08-18T08:07:08.368+0000] {logging_mixin.py:190} INFO - [2024-08-18T08:07:08.367+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/traditionalflow.py
+[2024-08-18T08:07:08.402+0000] {processor.py:925} INFO - DAG(s) 'traditional_dag' retrieved from /opt/airflow/dags/traditionalflow.py
+[2024-08-18T08:07:08.457+0000] {logging_mixin.py:190} INFO - [2024-08-18T08:07:08.456+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-18T08:07:08.661+0000] {logging_mixin.py:190} INFO - [2024-08-18T08:07:08.661+0000] {dag.py:4138} INFO - Setting next_dagrun for traditional_dag to 2024-08-17 21:00:00+00:00, run_after=2024-08-18 21:00:00+00:00
+[2024-08-18T08:07:08.781+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/traditionalflow.py took 0.422 seconds
+[2024-08-18T08:07:40.386+0000] {processor.py:186} INFO - Started process (PID=1153) to work on /opt/airflow/dags/traditionalflow.py
+[2024-08-18T08:07:40.388+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/traditionalflow.py for tasks to queue
+[2024-08-18T08:07:40.390+0000] {logging_mixin.py:190} INFO - [2024-08-18T08:07:40.389+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/traditionalflow.py
+[2024-08-18T08:07:40.446+0000] {processor.py:925} INFO - DAG(s) 'traditional_dag' retrieved from /opt/airflow/dags/traditionalflow.py
+[2024-08-18T08:07:40.500+0000] {logging_mixin.py:190} INFO - [2024-08-18T08:07:40.499+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-18T08:07:40.555+0000] {logging_mixin.py:190} INFO - [2024-08-18T08:07:40.554+0000] {dag.py:4138} INFO - Setting next_dagrun for traditional_dag to 2024-08-17 21:00:00+00:00, run_after=2024-08-18 21:00:00+00:00
+[2024-08-18T08:07:40.699+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/traditionalflow.py took 0.319 seconds
+[2024-08-18T08:08:13.124+0000] {processor.py:186} INFO - Started process (PID=1171) to work on /opt/airflow/dags/traditionalflow.py
+[2024-08-18T08:08:13.126+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/traditionalflow.py for tasks to queue
+[2024-08-18T08:08:13.128+0000] {logging_mixin.py:190} INFO - [2024-08-18T08:08:13.127+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/traditionalflow.py
+[2024-08-18T08:08:13.166+0000] {processor.py:925} INFO - DAG(s) 'traditional_dag' retrieved from /opt/airflow/dags/traditionalflow.py
+[2024-08-18T08:08:13.209+0000] {logging_mixin.py:190} INFO - [2024-08-18T08:08:13.209+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-18T08:08:13.255+0000] {logging_mixin.py:190} INFO - [2024-08-18T08:08:13.254+0000] {dag.py:4138} INFO - Setting next_dagrun for traditional_dag to 2024-08-17 21:00:00+00:00, run_after=2024-08-18 21:00:00+00:00
+[2024-08-18T08:08:13.384+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/traditionalflow.py took 0.268 seconds
+[2024-08-18T08:08:44.265+0000] {processor.py:186} INFO - Started process (PID=1189) to work on /opt/airflow/dags/traditionalflow.py
+[2024-08-18T08:08:44.267+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/traditionalflow.py for tasks to queue
+[2024-08-18T08:08:44.269+0000] {logging_mixin.py:190} INFO - [2024-08-18T08:08:44.268+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/traditionalflow.py
+[2024-08-18T08:08:44.320+0000] {processor.py:925} INFO - DAG(s) 'traditional_dag' retrieved from /opt/airflow/dags/traditionalflow.py
+[2024-08-18T08:08:44.371+0000] {logging_mixin.py:190} INFO - [2024-08-18T08:08:44.370+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-18T08:08:44.416+0000] {logging_mixin.py:190} INFO - [2024-08-18T08:08:44.415+0000] {dag.py:4138} INFO - Setting next_dagrun for traditional_dag to 2024-08-17 21:00:00+00:00, run_after=2024-08-18 21:00:00+00:00
+[2024-08-18T08:08:44.533+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/traditionalflow.py took 0.274 seconds
+[2024-08-18T08:09:15.534+0000] {processor.py:186} INFO - Started process (PID=1206) to work on /opt/airflow/dags/traditionalflow.py
+[2024-08-18T08:09:15.535+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/traditionalflow.py for tasks to queue
+[2024-08-18T08:09:15.538+0000] {logging_mixin.py:190} INFO - [2024-08-18T08:09:15.537+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/traditionalflow.py
+[2024-08-18T08:09:15.592+0000] {processor.py:925} INFO - DAG(s) 'traditional_dag' retrieved from /opt/airflow/dags/traditionalflow.py
+[2024-08-18T08:09:15.662+0000] {logging_mixin.py:190} INFO - [2024-08-18T08:09:15.660+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-18T08:09:15.734+0000] {logging_mixin.py:190} INFO - [2024-08-18T08:09:15.732+0000] {dag.py:4138} INFO - Setting next_dagrun for traditional_dag to 2024-08-17 21:00:00+00:00, run_after=2024-08-18 21:00:00+00:00
+[2024-08-18T08:09:15.861+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/traditionalflow.py took 0.339 seconds
+[2024-08-18T08:09:46.626+0000] {processor.py:186} INFO - Started process (PID=1224) to work on /opt/airflow/dags/traditionalflow.py
+[2024-08-18T08:09:46.628+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/traditionalflow.py for tasks to queue
+[2024-08-18T08:09:46.630+0000] {logging_mixin.py:190} INFO - [2024-08-18T08:09:46.630+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/traditionalflow.py
+[2024-08-18T08:09:46.681+0000] {processor.py:925} INFO - DAG(s) 'traditional_dag' retrieved from /opt/airflow/dags/traditionalflow.py
+[2024-08-18T08:09:46.734+0000] {logging_mixin.py:190} INFO - [2024-08-18T08:09:46.733+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-18T08:09:46.778+0000] {logging_mixin.py:190} INFO - [2024-08-18T08:09:46.777+0000] {dag.py:4138} INFO - Setting next_dagrun for traditional_dag to 2024-08-17 21:00:00+00:00, run_after=2024-08-18 21:00:00+00:00
+[2024-08-18T08:09:46.918+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/traditionalflow.py took 0.300 seconds
+[2024-08-18T08:10:18.079+0000] {processor.py:186} INFO - Started process (PID=1242) to work on /opt/airflow/dags/traditionalflow.py
+[2024-08-18T08:10:18.081+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/traditionalflow.py for tasks to queue
+[2024-08-18T08:10:18.083+0000] {logging_mixin.py:190} INFO - [2024-08-18T08:10:18.082+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/traditionalflow.py
+[2024-08-18T08:10:18.131+0000] {processor.py:925} INFO - DAG(s) 'traditional_dag' retrieved from /opt/airflow/dags/traditionalflow.py
+[2024-08-18T08:10:18.180+0000] {logging_mixin.py:190} INFO - [2024-08-18T08:10:18.179+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-18T08:10:18.227+0000] {logging_mixin.py:190} INFO - [2024-08-18T08:10:18.227+0000] {dag.py:4138} INFO - Setting next_dagrun for traditional_dag to 2024-08-17 21:00:00+00:00, run_after=2024-08-18 21:00:00+00:00
+[2024-08-18T08:10:18.342+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/traditionalflow.py took 0.270 seconds
+[2024-08-18T08:10:49.467+0000] {processor.py:186} INFO - Started process (PID=1260) to work on /opt/airflow/dags/traditionalflow.py
+[2024-08-18T08:10:49.470+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/traditionalflow.py for tasks to queue
+[2024-08-18T08:10:49.473+0000] {logging_mixin.py:190} INFO - [2024-08-18T08:10:49.472+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/traditionalflow.py
+[2024-08-18T08:10:49.523+0000] {processor.py:925} INFO - DAG(s) 'traditional_dag' retrieved from /opt/airflow/dags/traditionalflow.py
+[2024-08-18T08:10:49.588+0000] {logging_mixin.py:190} INFO - [2024-08-18T08:10:49.587+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-18T08:10:49.644+0000] {logging_mixin.py:190} INFO - [2024-08-18T08:10:49.643+0000] {dag.py:4138} INFO - Setting next_dagrun for traditional_dag to 2024-08-17 21:00:00+00:00, run_after=2024-08-18 21:00:00+00:00
+[2024-08-18T08:10:49.778+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/traditionalflow.py took 0.324 seconds
+[2024-08-18T08:11:20.501+0000] {processor.py:186} INFO - Started process (PID=1278) to work on /opt/airflow/dags/traditionalflow.py
+[2024-08-18T08:11:20.502+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/traditionalflow.py for tasks to queue
+[2024-08-18T08:11:20.504+0000] {logging_mixin.py:190} INFO - [2024-08-18T08:11:20.504+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/traditionalflow.py
+[2024-08-18T08:11:20.562+0000] {processor.py:925} INFO - DAG(s) 'traditional_dag' retrieved from /opt/airflow/dags/traditionalflow.py
+[2024-08-18T08:11:20.610+0000] {logging_mixin.py:190} INFO - [2024-08-18T08:11:20.609+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-18T08:11:20.654+0000] {logging_mixin.py:190} INFO - [2024-08-18T08:11:20.654+0000] {dag.py:4138} INFO - Setting next_dagrun for traditional_dag to 2024-08-17 21:00:00+00:00, run_after=2024-08-18 21:00:00+00:00
+[2024-08-18T08:11:20.767+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/traditionalflow.py took 0.272 seconds
+[2024-08-18T08:11:51.165+0000] {processor.py:186} INFO - Started process (PID=1295) to work on /opt/airflow/dags/traditionalflow.py
+[2024-08-18T08:11:51.167+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/traditionalflow.py for tasks to queue
+[2024-08-18T08:11:51.170+0000] {logging_mixin.py:190} INFO - [2024-08-18T08:11:51.169+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/traditionalflow.py
+[2024-08-18T08:11:51.227+0000] {processor.py:925} INFO - DAG(s) 'traditional_dag' retrieved from /opt/airflow/dags/traditionalflow.py
+[2024-08-18T08:11:51.285+0000] {logging_mixin.py:190} INFO - [2024-08-18T08:11:51.284+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-18T08:11:51.338+0000] {logging_mixin.py:190} INFO - [2024-08-18T08:11:51.337+0000] {dag.py:4138} INFO - Setting next_dagrun for traditional_dag to 2024-08-17 21:00:00+00:00, run_after=2024-08-18 21:00:00+00:00
+[2024-08-18T08:11:51.672+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/traditionalflow.py took 0.515 seconds
+[2024-08-18T08:12:23.388+0000] {processor.py:186} INFO - Started process (PID=1313) to work on /opt/airflow/dags/traditionalflow.py
+[2024-08-18T08:12:23.390+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/traditionalflow.py for tasks to queue
+[2024-08-18T08:12:23.393+0000] {logging_mixin.py:190} INFO - [2024-08-18T08:12:23.392+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/traditionalflow.py
+[2024-08-18T08:12:23.454+0000] {processor.py:925} INFO - DAG(s) 'traditional_dag' retrieved from /opt/airflow/dags/traditionalflow.py
+[2024-08-18T08:12:23.530+0000] {logging_mixin.py:190} INFO - [2024-08-18T08:12:23.530+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-18T08:12:23.593+0000] {logging_mixin.py:190} INFO - [2024-08-18T08:12:23.592+0000] {dag.py:4138} INFO - Setting next_dagrun for traditional_dag to 2024-08-17 21:00:00+00:00, run_after=2024-08-18 21:00:00+00:00
+[2024-08-18T08:12:24.011+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/traditionalflow.py took 0.631 seconds
+[2024-08-18T08:12:54.696+0000] {processor.py:186} INFO - Started process (PID=1331) to work on /opt/airflow/dags/traditionalflow.py
+[2024-08-18T08:12:54.698+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/traditionalflow.py for tasks to queue
+[2024-08-18T08:12:54.699+0000] {logging_mixin.py:190} INFO - [2024-08-18T08:12:54.699+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/traditionalflow.py
+[2024-08-18T08:12:54.751+0000] {processor.py:925} INFO - DAG(s) 'traditional_dag' retrieved from /opt/airflow/dags/traditionalflow.py
+[2024-08-18T08:12:54.801+0000] {logging_mixin.py:190} INFO - [2024-08-18T08:12:54.800+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-18T08:12:55.010+0000] {logging_mixin.py:190} INFO - [2024-08-18T08:12:55.009+0000] {dag.py:4138} INFO - Setting next_dagrun for traditional_dag to 2024-08-17 21:00:00+00:00, run_after=2024-08-18 21:00:00+00:00
+[2024-08-18T08:12:55.128+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/traditionalflow.py took 0.437 seconds
+[2024-08-18T08:13:30.585+0000] {processor.py:186} INFO - Started process (PID=1349) to work on /opt/airflow/dags/traditionalflow.py
+[2024-08-18T08:13:30.587+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/traditionalflow.py for tasks to queue
+[2024-08-18T08:13:30.592+0000] {logging_mixin.py:190} INFO - [2024-08-18T08:13:30.590+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/traditionalflow.py
+[2024-08-18T08:13:30.705+0000] {processor.py:925} INFO - DAG(s) 'traditional_dag' retrieved from /opt/airflow/dags/traditionalflow.py
+[2024-08-18T08:13:30.911+0000] {logging_mixin.py:190} INFO - [2024-08-18T08:13:30.908+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-18T08:13:33.037+0000] {logging_mixin.py:190} INFO - [2024-08-18T08:13:33.036+0000] {dag.py:4138} INFO - Setting next_dagrun for traditional_dag to 2024-08-17 21:00:00+00:00, run_after=2024-08-18 21:00:00+00:00
+[2024-08-18T08:13:33.563+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/traditionalflow.py took 2.994 seconds
+[2024-08-18T08:14:05.102+0000] {processor.py:186} INFO - Started process (PID=1368) to work on /opt/airflow/dags/traditionalflow.py
+[2024-08-18T08:14:05.103+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/traditionalflow.py for tasks to queue
+[2024-08-18T08:14:05.106+0000] {logging_mixin.py:190} INFO - [2024-08-18T08:14:05.106+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/traditionalflow.py
+[2024-08-18T08:14:05.157+0000] {processor.py:925} INFO - DAG(s) 'traditional_dag' retrieved from /opt/airflow/dags/traditionalflow.py
+[2024-08-18T08:14:05.218+0000] {logging_mixin.py:190} INFO - [2024-08-18T08:14:05.217+0000] {dag.py:3211} INFO - Sync 1 DAGs
+[2024-08-18T08:14:05.277+0000] {logging_mixin.py:190} INFO - [2024-08-18T08:14:05.276+0000] {dag.py:4138} INFO - Setting next_dagrun for traditional_dag to 2024-08-17 21:00:00+00:00, run_after=2024-08-18 21:00:00+00:00
+[2024-08-18T08:14:05.410+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/traditionalflow.py took 0.319 seconds
